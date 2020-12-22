@@ -1,0 +1,31 @@
+name: "432-main"
+output_dir: "docs"
+navbar:
+  title: "432"
+  type: inverse
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: Calendar
+      href: calendar.html
+    - text: R and Data
+      menu:
+        - text: Installing R
+          href: software_install.html
+        - text: R Packages List
+          href: r_packages.html
+        - text: Data Downloads
+          href: data_index.html
+  right:
+    - text: "Canvas"
+      href: https://canvas.case.edu/
+    - text: "Contact Us"
+      href: contact.html
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    includes:
+      after_body: footer.html
+    lib_dir: site_libs
+    self_contained: no

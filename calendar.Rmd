@@ -1,0 +1,76 @@
+---
+title: "Spring 2021 Calendar for 432"
+output: 
+    html_document:
+        toc: true
+        toc_float: true
+---
+
+## General Comments {-}
+
+- All class sessions will be held from **1:00 to 2:15 PM** via Zoom. 
+- All times listed anywhere on this page refer to **US Eastern Time**.
+- The Zoom link for each class is [available on Canvas](https://canvas.case.edu) in the Announcements section. Zoom recordings are also posted to [Canvas](https://canvas.case.edu).
+- All Zoom class session will open 15 minutes before class begins and close 15 minutes after class ends for students to ask questions of Professor Love.
+- Links to Class sessions and Assignments will appear here as the materials become available.
+
+## Readings
+
+Details to come.
+
+## February 2021
+
+LINK | Date | Description
+--------: | -------: | :-------------------------------------------------------
+[Class 01](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class01) | 02-02 | First Class
+[Class 02](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class02) | 02-04 | Second Class
+Class 03 | 02-09 | Details to come.
+Class 04 | 02-11 | Details to come.
+Class 05 | 02-16 | Details to come.
+Class 06 | 02-18 | Details to come.
+Class 07 | 02-23 | Details to come.
+Class 08 | 02-25 | Details to come.
+
+## March 2021
+
+LINK | Date | Description
+--------: | -------: | :-------------------------------------------------------
+Class 09 | 03-02 | Details to come.
+Class 10 | 03-04 | Details to come.
+Class 11 | 03-09 | Details to come.
+Class 12 | 03-11 | Details to come.
+No class | 03-16 | University Break.
+Class 13 | 03-18 | Details to come.
+Class 14 | 03-23 | Details to come.
+Class 15 | 03-25 | Details to come.
+Class 16 | 03-30 | Details to come.
+
+## April 2021
+
+LINK | Date | Description
+--------: | -------: | :-------------------------------------------------------
+Class 17 | 04-01 | Details to come.
+Class 18 | 04-06 | Details to come.
+Class 19 | 04-08 | Details to come.
+Class 20 | 04-13 | Details to come.
+Class 21 | 04-15 | Details to come.
+Class 22 | 04-20 | Details to come.
+Class 23 | 04-22 | Details to come.
+Class 24 | 04-27 | Details to come.
+Class 25 | 04-29 | Details to come.
+
+## May 2021
+
+LINK | Date | Description
+--------: | -------: | :-------------------------------------------------------
+Class 26 | 05-04 | Details to come.
+Class 27 | 05-06 | Last Class Session.
+
+## End of Semester
+
+Finals Week is 2021-05-11 through 2021-05-19. 
+
+## TA Office Hours
+
+Details on teaching assistants and their office hours to come.
+
