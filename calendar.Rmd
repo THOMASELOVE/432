@@ -32,14 +32,14 @@ LINK | Date | Description
 [Class 01](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class01) | 02-02 | Getting Started, Building Table 1.
 [Class 02](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class02) | 02-04 | Interaction and ANOVA/ANCOVA models
 Reading | 02-05 | **Silver** Intro, Chapter 1. **Leek** Data Sharing, Reading scientific papers
-Lab 01 | 02-08 | Lab 01 due at 9 PM. 
+Assignment | 02-08 | Lab 01 due at 9 PM. 
 Class 03 | 02-09 | Building Non-Linear Terms in Linear Models
 Class 04 | 02-11 | Interactions, Splines and Imputation in Linear Models
 Reading | 02-12 | This weekend: **Silver** Chapter 2. **Leek** Paper writing, Scientific code
 Class 05 | 02-16 | Binary Models: Linear Probability & Logistic Regression
 Class 06 | 02-18 | Building Models for Binary Outcomes
 Reading | 02-19 | This weekend: **Silver** Chapter 3, 4 or 5 (your choice). **Leek** Internal scientific communication, Your online identity
-Lab 02 | 02-22 | Lab 02 due at 9 PM.
+Assignment | 02-22 | Lab 02 due at 9 PM.
 Class 07 | 02-23 | Fitting and assessing linear and logistic regressions, 1
 Class 08 | 02-25 | Fitting and assessing linear and logistic regressions, 2
 Reading | 02-26 | This weekend: Complete reading **Leek**
@@ -51,19 +51,19 @@ LINK | Date | Description
 No class | 03-02 | Dr. Love at AHRQ HCRT.
 Class 09 | 03-04 | Fitting and assessing linear and logistic regressions, 3.
 Reading | 03-05 | This weekend: **Silver** Chapter 6.
-Lab 03 | 03-08 | Lab 03 due at 9 PM.
+Assignment | 03-08 | Lab 03 due at 9 PM.
 Class 10 | 03-09 | Fitting and assessing linear and logistic regressions, 4.
 Class 11 | 03-11 | Fitting and assessing linear and logistic regressions, 5.
 Reading | 03-12 | This weekend: **Silver** Chapter 7.
 No class | 03-16 | University Break.
 Class 12 | 03-18 | (Some of) The problems with p values.
 Reading | 03-19 | This weekend: **Silver** Chapter 8.
-Quiz A | 03-22 | Quiz A will be available 03-12 and is due 03-22 at 9 PM.
+Assignment | 03-22 | Quiz A will be available 03-12 and is due 03-22 at 9 PM.
 Class 13 | 03-23 | Retrospective Design / Thinking about Power After the Fact
 Class 14 | 03-25 | Regression on Counts
 Reading | 03-26 | This weekend: **Silver** Chapter 9 or 10 (your choice).
 Class 15 | 03-30 | Regression on Counts and Ordinal multi-categorical outcomes.
-Project 1 | 03-31 | Project 1 submissions. Details to come.
+Assignment | 03-31 | Project 1 submissions. Details to come.
 
 ## April 2021
 
@@ -74,13 +74,13 @@ Reading | 04-02 | This weekend: **Silver** Chapter 12.
 Class 17 | 04-06 | Regression on multi-categorical outcomes.
 Class 18 | 04-08 | Dealing with Time-to-event data, Kaplan-Meier curves.
 Reading | 04-09 | This weekend: **Silver** Chapter 13.
-Lab 04 | 04-12 | Lab 04 due at 9 PM.
+Assignment | 04-12 | Lab 04 due at 9 PM.
 Class 19 | 04-13 | Fitting Cox models for time-to-event data, 1.
 Class 20 | 04-15 | Fitting Cox models for time-to-event data, 2.
 Reading | 04-16 | This weekend: **Silver** Chapter 11.
 Class 21 | 04-20 | Working with survey weights, 1.
 Class 22 | 04-22 | Working with survey weights, 2.
-Lab 05 | 04-26 | Lab 05 due at 9 PM.
+Assignment | 04-26 | Lab 05 due at 9 PM.
 Class 23 | 04-27 | Working with hierarchical data, 1.
 Class 24 | 04-29 | Working with hierarchical data, 2.
 Reading | 04-30 | This weekend: **Silver** complete the book if you haven't already.
@@ -91,9 +91,9 @@ LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
 Class 25 | 05-04 | Details to come.
 Class 26 | 05-06 | Last Class Session.
-Project 2 | 05-10 | Project 2 submissions. Details to come by April 1.
-Quiz B | 05-17 | Quiz B will be available 05-07 and is due 05-17 at 9 PM.
-Lab 06 | 05-17 | (Optional) Lab 06 due 05-17 at 9 PM.
+Assignment | 05-10 | Project 2 submissions. Details to come by April 1.
+Assignment | 05-14 | (Optional) Lab 06 due 05-14 at 9 PM.
+Assignment | 05-17 | Quiz B will be available 05-07 and is due 05-17 at 9 PM.
 
 ## End of Semester
 
