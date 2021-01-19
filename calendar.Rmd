@@ -13,6 +13,7 @@ output:
 - The Zoom link for each class is [available on Canvas](https://canvas.case.edu) in the Announcements section. Zoom recordings are also posted to [Canvas](https://canvas.case.edu).
 - All Zoom class session will open 15 minutes before class begins and close 15 minutes after class ends for students to ask questions of Professor Love.
 - Links to Class sessions and Assignments will appear here as the materials become available.
+- A list of key topics for the course is available on the [site home page](index.html)
 
 ## Readings
 
@@ -22,42 +23,42 @@ Details to come.
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
-[Class 01](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class01) | 02-02 | First Class
-[Class 02](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class02) | 02-04 | Second Class
-Class 03 | 02-09 | Details to come.
-Class 04 | 02-11 | Details to come.
-Class 05 | 02-16 | Details to come.
-Class 06 | 02-18 | Details to come.
-Class 07 | 02-23 | Details to come.
-Class 08 | 02-25 | Details to come.
+[Class 01](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class01) | 02-02 | Getting Started, Building Table 1.
+[Class 02](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class02) | 02-04 | Interaction and ANOVA/ANCOVA models
+Class 03 | 02-09 | Building Non-Linear Terms in Linear Models
+Class 04 | 02-11 | Interactions, Splines and Imputation in Linear Models
+Class 05 | 02-16 | Binary Models: Linear Probability & Logistic Regression
+Class 06 | 02-18 | Building Models for Binary Outcomes
+Class 07 | 02-23 | Fitting and assessing linear and logistic regressions, 1
+Class 08 | 02-25 | Fitting and assessing linear and logistic regressions, 2
 
 ## March 2021
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
-Class 09 | 03-02 | Details to come. Dr. Love at AHRQ HCRT.
-Class 10 | 03-04 | Details to come.
-Class 11 | 03-09 | Details to come.
-Class 12 | 03-11 | Details to come.
+Class 09 | 03-02 | To be announced: Dr. Love at AHRQ HCRT.
+Class 10 | 03-04 | Fitting and assessing linear and logistic regressions, 3.
+Class 11 | 03-09 | Fitting and assessing linear and logistic regressions, 4.
+Class 12 | 03-11 | Fitting and assessing linear and logistic regressions, 5.
 No class | 03-16 | University Break.
-Class 13 | 03-18 | Details to come.
-Class 14 | 03-23 | Details to come.
-Class 15 | 03-25 | Details to come.
-Class 16 | 03-30 | Details to come.
+Class 13 | 03-18 | (Some of) The problems with p values.
+Class 14 | 03-23 | Retrospective Design / Thinking about Power After the Fact
+Class 15 | 03-25 | Regression on Counts
+Class 16 | 03-30 | Regression on Counts and Ordinal multi-categorical outcomes.
 
 ## April 2021
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
-Class 17 | 04-01 | Details to come.
-Class 18 | 04-06 | Details to come.
-Class 19 | 04-08 | Details to come.
-Class 20 | 04-13 | Details to come.
-Class 21 | 04-15 | Details to come.
-Class 22 | 04-20 | Details to come.
-Class 23 | 04-22 | Details to come.
-Class 24 | 04-27 | Details to come.
-Class 25 | 04-29 | Details to come.
+Class 17 | 04-01 | Regression on Ordinal and Nominal multi-categorical outcomes.
+Class 18 | 04-06 | Regression on multi-categorical outcomes.
+Class 19 | 04-08 | Dealing with Time-to-event data, Kaplan-Meier curves.
+Class 20 | 04-13 | Fitting Cox models for time-to-event data, 1.
+Class 21 | 04-15 | Fitting Cox models for time-to-event data, 2.
+Class 22 | 04-20 | Working with survey weights, 1.
+Class 23 | 04-22 | Working with survey weights, 2.
+Class 24 | 04-27 | Working with hierarchical data, 1.
+Class 25 | 04-29 | Working with hierarchical data, 2.
 
 ## May 2021
 
