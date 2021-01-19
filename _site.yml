@@ -8,6 +8,12 @@ navbar:
       href: index.html
     - text: Calendar
       href: calendar.html
+    - text: Syllabus
+      href: syllabus.html
+    - text: Course Notes
+      href: notes.html
+    - text: Assignments
+      href: assignments.html
     - text: R and Data
       menu:
         - text: Installing R

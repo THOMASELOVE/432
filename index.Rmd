@@ -13,8 +13,8 @@ The menu bar will expand to include links to everything you'll need this semeste
 - the course syllabus
 - the [course calendar](calendar.html), which provides the final word on all deadlines, and also provides links to all materials used in each class session
 - the course notes, written by Dr. Love specifically for this class, which will continue to update throuh the semester
-- detailed information on all course assignments
-    - All deadlines for these assignments will appear in the [calendar](calendar.html).
+- the course assignments, including two projects, two quizzes, and six labs.
+    - All deadlines for these assignments appear in the [calendar](calendar.html).
 - information on [installing R and RStudio](software_install.html), [installing key R packages](r_packages.html), and [downloading data](data_index.html) (and code) you'll need for the class.
 - a link to the [Canvas](https://canvas.case.edu/) system (log-in required) we use to communicate information about Zoom sessions, and for turning in assignments
 - places where you can [get help and contact us](contact.html).
@@ -25,7 +25,9 @@ The menu bar will expand to include links to everything you'll need this semeste
 2. You will also need a copy of Nate Silver's book **The Signal and the Noise**, available [on Amazon](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087) for about $20. 
     - The 2015 edition is sufficient for 432, and either an electronic or paper version is fine. In 2020, Nate added a new preface, which is interesting, but not critical.
 3. Jeff Leek's **How to be a Modern Scientist** available as an ebook [on Leanpub](https://leanpub.com/modernscientist) for a suggested $10.
-    - This book was written in 2016, and is thus a little out of date, but still helpful.
+    - This short book was written in 2016, and is thus a little out of date, but still very helpful. You can read the entire book in a couple of hours.
+
+Deadlines for reading chapters in Silver and sections in Leek are posted in the [calendar](calendar.html).
 
 ## Key Topics for 432 in Spring 2021
 
