@@ -13,7 +13,13 @@ navbar:
     - text: Course Notes
       href: notes.html
     - text: Assignments
-      href: assignments.html
+      menu:
+        - text: Labs
+          href: labs.html
+        - text: Projects
+          href: projects.html
+        - text: Quizzes
+          href: quizzes.html
     - text: R and Data
       menu:
         - text: Installing R
