@@ -62,8 +62,8 @@ Deadline | 03-22 | Quiz A will be available 03-12 and is due 03-22 at 9 PM.
 Class 13 | 03-23 | Retrospective Design / Thinking about Power After the Fact
 Class 14 | 03-25 | Regression on Counts
 To Read | 03-26 | This weekend: **Silver** Chapter 9 or 10 (your choice).
+Deadline | 03-29 | Project 1 submissions are due at 9 PM. Details to come.
 Class 15 | 03-30 | Regression on Counts and Ordinal multi-categorical outcomes.
-Deadline | 03-31 | Project 1 submissions. Details to come.
 
 ## April 2021
 

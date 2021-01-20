@@ -4,5 +4,15 @@ title: "Contact Information"
 
 Prior to the start of the course, email Dr. Love at **Thomas dot Love at case dot edu** with any questions.
 
-Dr. Love will be supported by a set of outstanding teaching assistants, and these folks will be available starting in February.
+### Once the class starts, use Piazza to contact us
+
+As in 431, we will be using [the Piazza software](https://piazza.com/case/spring2021/pqhs432) for asynchronous discussion about 432. Rather than emailing questions, I encourage you when possible to post your questions about labs, class sessions, or other matters to Piazza.
+
+- The Piazza system is designed to get you help fast and efficiently from classmates, the TAs, and myself. 
+- You'll need to sign up for the 432 class (if you took 431 this Fall, you should be able to connect directly using your old account.) Our class signup link is: https://piazza.com/case/spring2021/pqhs432.
+- Once you are logged in to Piazza, you will see a contribution link asking you to make a small financial contribution to Piazza to help Piazza maintain the service. Making a contribution is **NOT** required for you to use the service through the semester.
+
+### Teaching Assistants and Office Hours
+
+Dr. Love will be supported by eight outstanding teaching assistants - all of whom return from their work this Fall in 431. Most of the TAs are volunteering their time and energy to help you with the course, and they will be very eager to meet with you. TA office hours will be announced at our first class and will begin on Thursday 2021-02-04.
 
