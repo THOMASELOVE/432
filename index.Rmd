@@ -31,16 +31,16 @@ The menu bar includes links to everything you'll need this semester, which will 
 
 For some sense of how the course will flow, visit the [calendar](calendar.html)
 
-1. Dealing with interaction and other forms of non-linearity in regression models by spending degrees of freedom on non-linear terms.
-2. Using regression methods for different purposes (exploring associations, making predictions, assessing cause and effect)
-3. Logistic regression and generalized linear models for binary, count and multi-categorical outcomes
-4. Using tidymodels approaches to build models in a more automated, tidier way, and to use more modern (robust and/or Bayesian) regression fitting strategies.
+1. Dealing with interaction and other forms of non-linearity in regression models by spending degrees of freedom on non-linear terms, particularly through the [Harrell "verse"](https://www.nicholas-ollberding.com/post/an-introduction-to-the-harrell-verse-predictive-modeling-using-the-hmisc-and-rms-packages/).
+2. Using regression methods for different purposes (exploring associations, making predictions, assessing cause and effect).
+3. Logistic regression and generalized linear models for binary, count and multi-categorical outcomes.
+4. Using [tidymodels](https://www.tidymodels.org/) approaches to build models in a more automated, tidier way, and to use more modern (robust and/or Bayesian) regression fitting strategies.
 5. Variable selection and its woeful performance in real situations.
-6. Why statistical significance and p values are problematic.
-7. Retrospective assessments and issues related to power and sample size
-8. Dealing with survival data, with an introduction to censoring, Kaplan-Meier curves and Cox models
-9. Using sampling weights to mirror populations in modeling results (NHANES being a prime example)
-10. Dealing with hierarchical data, with an introduction to repeated measures
-11. Doing replicable research, and how to be a modern scientist with a web presence
+6. The statistical crisis in science, and how though statistical significance and p values are especially problematic, [science isn't broken](https://fivethirtyeight.com/features/science-isnt-broken/).
+7. Retrospective assessments and issues related to sample size, especially post hoc power estimates.
+8. Dealing with time-to-event (survival) data, with an introduction to censoring, Kaplan-Meier curves and Cox models.
+9. Using sampling weights to mirror populations in modeling results (NHANES being a prime example).
+10. An introduction to dealing with hierarchical data, especially when confronted with repeated measures.
+11. Doing replicable research, and how to be a modern scientist with a web presence.
 
 #### This site last updated `r Sys.time()`
