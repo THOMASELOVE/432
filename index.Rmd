@@ -12,8 +12,8 @@ The menu bar includes links to everything you'll need this semester, which will 
 
 - the course syllabus
 - the [course calendar](calendar.html), which provides the final word on all deadlines, and also provides links to all materials used in each class session
-- the course notes, written by Dr. Love specifically for this class, which will be updated through the semester
-- the course assignments, including two projects, two quizzes, and six labs.
+- the course notes, written by Dr. Love, which will be updated through the semester
+- the course assignments, including projects, quizzes, labs and minute papers.
     - All assignment deadlines appear in the [calendar](calendar.html).
 - information on [installing R and RStudio](software_install.html), [installing key R packages](r_packages.html), and [downloading data](data_index.html) (and code) you'll need for the class.
 - a link to the [Canvas](https://canvas.case.edu/) system (log-in required) we use to communicate information about Zoom sessions, and for turning in assignments

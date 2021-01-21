@@ -33,6 +33,8 @@ navbar:
   right:
     - text: "Canvas"
       href: https://canvas.case.edu/
+    - text: "Piazza"
+      href: https://piazza.com/case/spring2021/pqhs432
     - text: "Contact Us"
       href: contact.html
 output:

@@ -9,7 +9,7 @@ The steps you need to complete are:
 1. Download and install **the latest version of R** (version **4.0.3 or later**) from http://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org which automatically chooses a fast, nearby mirror for you.
     - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you reinstall both to get current.
 2. Download and install **RStudio Desktop** (Open Source Edition - the free version **1.4.1103 or later**) at https://www.rstudio.com/products/rstudio/download/#download. 
-    - Dr. Love will stick with the regular open source version in his teaching work.
+    - Dr. Love strongly recommends upgrading to version 1.4 of RStudio. [Read RStudio's announcement about the release](https://blog.rstudio.com/2021/01/19/announcing-rstudio-1-4/).
 3. Install some **R packages** - an R "package" is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work. 
     - The most recent list of [R Packages to install](r_packages.html) is available now, along with instructions. As the semester continues, this list will be updated to add new packages.
 4. Download [432 data and code](data_index.html) developed specifically for the course.
