@@ -14,7 +14,7 @@ Once you have registered for the course, please visit our [Welcome to 432 survey
 
 The menu bar includes links to everything you'll need this semester, which will go live as they become available, including
 
-- the [course syllabus](syllabus.html)
+- the [course syllabus](syllabus.html), including information on what to do before the first class
 - the [course calendar](calendar.html), which provides the final word on all deadlines, and also provides links to all materials used in each class session
 - the course notes, written by Dr. Love, which will be updated through the semester
 - the [course assignments](minutes.html), including projects, quizzes, labs and minute papers.
