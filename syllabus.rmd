@@ -2,4 +2,6 @@
 title: "Syllabus"
 ---
 
-The Syllabus for 432 will be posted before February 1.
+A draft version of the Syllabus for 432 is now available at https://thomaselove.github.io/432-2021-syllabus/.
+
+This draft is not yet complete. A complete Syllabus should be available by February 1.
