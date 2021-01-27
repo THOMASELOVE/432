@@ -30,6 +30,8 @@ navbar:
           href: r_packages.html
         - text: Data Downloads
           href: data_index.html
+        - text: Review Some R Basics
+          href: https://github.com/THOMASELOVE/432-2021/tree/master/r-basics
   right:
     - text: "Canvas"
       href: https://canvas.case.edu/

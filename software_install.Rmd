@@ -19,3 +19,7 @@ The steps you need to complete are:
 ## Need Installation Help?
 
 If you need more help, you might look at [this terrific resource for Installing R and RStudio](https://stat545.com/install.html) from Jenny Bryan and the STAT 545 project. These are the people responsible for the great [Happy Git with R](http://happygitwithr.com/) project, which will also be worth your time when we are using Git and GitHub.
+
+## Need a Refresher?
+
+We have an [R-basics set of materials](https://github.com/THOMASELOVE/432-2021/tree/master/r-basics) that may be helpful for those of you having trouble remembering how to use R to do useful things.
