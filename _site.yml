@@ -17,7 +17,7 @@ navbar:
         - text: Minute Papers
           href: minutes.html
         - text: Labs
-          href: https://github.com/THOMASELOVE/432-2021/tree/master/labs
+          href: labs.html
         - text: Projects
           href: projects.html
         - text: Quizzes
