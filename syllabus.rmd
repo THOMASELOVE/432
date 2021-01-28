@@ -1,7 +1,0 @@
----
-title: "Syllabus"
----
-
-The Syllabus for 432 is now available at https://thomaselove.github.io/432-2021-syllabus/.
-
-Minor revisions are likely through February 1, but this is essentially complete.

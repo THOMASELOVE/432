@@ -9,9 +9,9 @@ navbar:
     - text: Calendar
       href: calendar.html
     - text: Syllabus
-      href: syllabus.html
+      href: https://thomaselove.github.io/432-2021-syllabus/
     - text: Course Notes
-      href: notes.html
+      href: https://thomaselove.github.io/432-notes/
     - text: Assignments
       menu:
         - text: Minute Papers

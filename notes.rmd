@@ -1,5 +1,0 @@
----
-title: "Course Notes"
----
-
-The Course Notes for 432 will be posted before February 1.
