@@ -17,7 +17,7 @@ The menu bar includes links to everything you'll need this semester, which will 
 - the [course syllabus](https://thomaselove.github.io/432-2021-syllabus/), including information on what to do before the first class
 - the [course calendar](calendar.html), which provides the final word on all deadlines, and also provides links to all materials used in each class session
 - the [course notes](https://thomaselove.github.io/432-notes/), written by Dr. Love, which will be updated through the semester
-- the [course assignments](minutes.html), including projects, quizzes, labs and minute papers.
+- the [course assignments](minutes.html), including [projects](projects.html), [quizzes](quizzes.html), [labs](labs.html) and [minute papers](minutes.html).
     - All assignment deadlines appear in the [calendar](calendar.html).
 - information on [installing R and RStudio](software_install.html), [installing key R packages](r_packages.html), and [downloading data](data_index.html) (and code) you'll need for the class.
 - a link to the [Canvas](https://canvas.case.edu/) system (log-in required) we use to communicate information about Zoom sessions, and for turning in assignments

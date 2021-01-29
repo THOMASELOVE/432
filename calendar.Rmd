@@ -34,43 +34,44 @@ LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
 [Class 01](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class01) | 02-02 | Getting Started, Building Table 1.
 [Class 02](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class02) | 02-04 | Interaction and ANOVA/ANCOVA models
-To Read | 02-05 | **Silver** Intro, Chapter 1. **Leek** Data Sharing, Reading scientific papers
-Deadline | 02-08 | [Lab 01](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM. 
+*Reading* | 02-05 | **Silver** Intro, Chapter 1. **Leek** Data Sharing, Reading scientific papers
+**due** | 02-08 | [Lab 01](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM. 
 Class 03 | 02-09 | Building Non-Linear Terms in Linear Models
-Deadline | 02-10 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 03 due at noon.
+**due** | 02-10 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 03 due at noon.
 Class 04 | 02-11 | Interactions, Splines and Imputation in Linear Models
-To Read | 02-12 | This weekend: **Silver** Chapter 2. **Leek** Paper writing, Scientific code
+*Reading* | 02-12 | **Silver** Chapter 2. **Leek** Paper writing, Scientific code
 Class 05 | 02-16 | Binary Models: Linear Probability & Logistic Regression
-Deadline | 02-17 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 05 due at noon.
+**due** | 02-17 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 05 due at noon.
 Class 06 | 02-18 | Building Models for Binary Outcomes
-To Read | 02-19 | **Silver** Chapter 3, 4, or 5 (your choice). **Leek** Internal scientific communication, Your online identity
-Deadline | 02-22 | [Lab 02](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
+*Reading* | 02-19 | **Silver** Chapter 3, 4, or 5 (your choice). **Leek** Internal scientific communication, Your online identity
+**due** | 02-22 | [Lab 02](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
 Class 07 | 02-23 | Fitting and assessing linear and logistic regressions, 1
-Deadline | 02-24 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 07 due at noon.
+**due** | 02-24 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 07 due at noon.
 Class 08 | 02-25 | Fitting and assessing linear and logistic regressions, 2
-To Read | 02-26 | This weekend: Complete **Leek**
+*Reading* | 02-26 | Complete **Leek**
 
 ## March 2021
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
+**due** | 03-01 | [Project 1 Proposal](https://github.com/THOMASELOVE/432-2021/tree/master/project1) is due at 9 PM.
 No class | 03-02 | Dr. Love at AHRQ HCRT.
 Class 09 | 03-04 | Fitting and assessing linear and logistic regressions, 3.
-To Read | 03-05 | This weekend: **Silver** Chapter 6.
-Deadline | 03-08 | [Lab 03](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
+*Reading* | 03-05 | **Silver** Chapter 6.
+**due** | 03-08 | [Lab 03](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
 Class 10 | 03-09 | Fitting and assessing linear and logistic regressions, 4.
-Deadline | 03-10 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 10 due at noon.
+**due** | 03-10 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 10 due at noon.
 Class 11 | 03-11 | Fitting and assessing linear and logistic regressions, 5.
-To Read | 03-12 | This weekend: **Silver** Chapter 7.
+*Reading* | 03-12 | **Silver** Chapter 7.
 No class | 03-16 | University Break.
 Class 12 | 03-18 | (Some of) The problems with p values.
-To Read | 03-19 | This weekend: **Silver** Chapter 8.
-Deadline | 03-22 | Quiz A will be available 03-12 and is due 03-22 at 9 PM.
+*Reading* | 03-19 | **Silver** Chapter 8.
+**due** | 03-22 | Quiz A will be available 03-12 and is due 03-22 at 9 PM.
 Class 13 | 03-23 | Retrospective Design / Thinking about Power After the Fact
-Deadline | 03-24 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 13 due at noon.
+**due** | 03-24 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 13 due at noon.
 Class 14 | 03-25 | Regression on Counts
-To Read | 03-26 | This weekend: **Silver** Chapter 9 or 10 (your choice).
-Deadline | 03-29 | Project 1 submissions are due at 9 PM. Details to come.
+*Reading* | 03-26 | **Silver** Chapter 9 or 10 (your choice).
+**due** | 03-29 | [Project 1 Portfolio and Presentation](https://github.com/THOMASELOVE/432-2021/tree/master/project1) are due at 9 PM.
 Class 15 | 03-30 | Regression on Counts and Ordinal multi-categorical outcomes.
 
 ## April 2021
@@ -78,35 +79,36 @@ Class 15 | 03-30 | Regression on Counts and Ordinal multi-categorical outcomes.
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
 Class 16 | 04-01 | Regression on Ordinal and Nominal multi-categorical outcomes.
-To Read | 04-02 | This weekend: **Silver** Chapter 12.
+*Reading* | 04-02 | **Silver** Chapter 12.
 Class 17 | 04-06 | Regression on multi-categorical outcomes.
-Deadline | 04-07 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 17 due at noon.
+**due** | 04-07 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 17 due at noon.
 Class 18 | 04-08 | Dealing with Time-to-event data, Kaplan-Meier curves.
-To Read | 04-09 | This weekend: **Silver** Chapter 13.
-Deadline | 04-12 | [Lab 04](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
+*Reading* | 04-09 | **Silver** Chapter 13.
+**due** | 04-12 | [Lab 04](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
 Class 19 | 04-13 | Fitting Cox models for time-to-event data, 1.
-Deadline | 04-14 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 19 due at noon.
+**due** | 04-14 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 19 due at noon.
 Class 20 | 04-15 | Fitting Cox models for time-to-event data, 2.
-To Read | 04-16 | This weekend: **Silver** Chapter 11.
+*Reading* | 04-16 | **Silver** Chapter 11.
+**due** | 04-19 | Project 2 Proposal will be due at 9 PM. Details to come.
 Class 21 | 04-20 | Working with survey weights, 1.
-Deadline | 04-21 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 21 due at noon.
+**due** | 04-21 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 21 due at noon.
 Class 22 | 04-22 | Working with survey weights, 2.
-Deadline | 04-26 | [Lab 05](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
+**due** | 04-26 | [Lab 05](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
 Class 23 | 04-27 | Working with hierarchical data, 1.
 Class 24 | 04-29 | Working with hierarchical data, 2.
-To Read | 04-30 | This weekend: **Silver** complete the book if you haven't already.
+*Reading* | 04-30 | **Silver** complete the book if you haven't already.
 
 ## May 2021
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
 Class 25 | 05-04 | Details to come.
-Deadline | 05-05 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 25 due at noon.
+**due** | 05-05 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 25 due at noon.
 Class 26 | 05-06 | Last Class Session.
-Deadline | 05-10 | Project 2 submissions. Details to come by April 1.
-Deadline | 05-14 | (Optional) [Lab Regrade Request Form](http://bit.ly/432-2021-lab-regrade-requests) due 05-14 at Noon.
-Deadline | 05-14 | (Optional) [Lab 06](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due 05-14 at 9 PM.
-Deadline | 05-17 | Quiz B will be available 05-07 and is due 05-17 at 9 PM.
+**due** | 05-10 | Project 2 submissions. Details to come by April 1.
+**due** | 05-14 | (Optional) [Lab Regrade Request Form](http://bit.ly/432-2021-lab-regrade-requests) due 05-14 at Noon.
+**due** | 05-14 | (Optional) [Lab 06](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due 05-14 at 9 PM.
+**due** | 05-17 | Quiz B will be available 05-07 and is due 05-17 at 9 PM.
 
 ## End of Semester
 
