@@ -36,9 +36,9 @@ LINK | Date | Description
 [Class 02](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class02) | 02-04 | Interaction and ANOVA/ANCOVA models
 *Reading* | 02-05 | **Silver** Intro, Chapter 1. **Leek** Data Sharing, Reading scientific papers
 **due** | 02-08 | [Lab 01](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM. 
-Class 03 | 02-09 | Building Non-Linear Terms in Linear Models
+[Class 03](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class03) | 02-09 | Building Non-Linear Terms in Linear Models
 **due** | 02-10 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 03 due at noon.
-Class 04 | 02-11 | Interactions, Splines and Imputation in Linear Models
+[Class 04](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class04) | 02-11 | Interactions, Splines and Imputation in Linear Models
 *Reading* | 02-12 | **Silver** Chapter 2. **Leek** Paper writing, Scientific code
 Class 05 | 02-16 | Binary Models: Linear Probability & Logistic Regression
 **due** | 02-17 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 05 due at noon.
