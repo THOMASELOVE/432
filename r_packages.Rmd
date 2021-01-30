@@ -46,6 +46,12 @@ install.packages(pkgs)
 
 If you are using Windows, and get messages during installation that the latest version of RTools needs to be installed, you can usually just ignore them. If you don't want to ignore them, [go here to download and install RTools](https://cran.r-project.org/bin/windows/Rtools/) for Windows.
 
+### A Special Note on the `countreg` package
+
+To build rootograms to visualize the results of regression models on count outcomes, I have decided for the moment to continue to use the `countreg` package, which is currently available **on R-Forge only**. 
+
+To install `countreg`, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
+
 ## Installing a Single Package
 
 If you want to install a single package, you can do so by finding the word **Packages** on the right side of your RStudio screen. 
