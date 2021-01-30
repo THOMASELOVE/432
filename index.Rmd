@@ -19,7 +19,8 @@ The menu bar includes links to everything you'll need this semester, which will 
 - the [course notes](https://thomaselove.github.io/432-notes/), written by Dr. Love, which will be updated through the semester
 - the [course assignments](minutes.html), including [projects](projects.html), [quizzes](quizzes.html), [labs](labs.html) and [minute papers](minutes.html).
     - All assignment deadlines appear in the [calendar](calendar.html).
-- information on [installing R and RStudio](software_install.html), [installing key R packages](r_packages.html), and [downloading data](data_index.html) (and code) you'll need for the class.
+- information on [installing R and RStudio](software_install.html), [installing key R packages](r_packages.html), and [downloading data](data_index.html) (and code) you'll need for the class
+- additional [references](https://github.com/THOMASELOVE/432-2021/tree/master/references) that I will be referring to occasionally over the course of the semester
 - a link to the [Canvas](https://canvas.case.edu/) system (log-in required) we use to communicate information about Zoom sessions, and for turning in assignments
 - places where you can [get help and contact us](contact.html).
 
