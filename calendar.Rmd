@@ -9,7 +9,7 @@ output:
 ## General Comments {-}
 
 - All class sessions will be held from **1:00 to 2:15 PM** via Zoom. 
-    - Dr. Love will open the sessions 15 minutes early and stay on the line 15 minutes after class ends to address questions.
+    - Dr. Love will open the sessions 10 minutes early and stay on the line for 15 minutes (or more, if needed) after class ends to address questions.
 - All times listed anywhere on this page refer to **US Eastern Time**.
 - The Zoom link for each class is [available on Canvas](https://canvas.case.edu) in the Announcements section. Zoom recordings are also posted to [Canvas](https://canvas.case.edu).
 - Links to Class sessions and Assignments will go live here as the materials become available.
