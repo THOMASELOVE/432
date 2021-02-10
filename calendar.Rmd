@@ -8,25 +8,11 @@ output:
 
 ## General Comments {-}
 
-- All class sessions will be held from **1:00 to 2:15 PM** via Zoom. 
-    - Dr. Love will open the sessions 10 minutes early and stay on the line for 15 minutes (or more, if needed) after class ends to address questions.
-- All times listed anywhere on this page refer to **US Eastern Time**.
+- All class sessions are held from **1:00 to 2:15 PM** via Zoom. 
+    - Dr. Love opens the sessions 10 minutes early and stays on for 15 minutes (or more, if needed) after class ends to address questions.
+- All times listed on this page refer to **US Eastern Time**.
 - The Zoom link for each class is [available on Canvas](https://canvas.case.edu) in the Announcements section. Zoom recordings are also posted to [Canvas](https://canvas.case.edu).
-- Links to Class sessions and Assignments will go live here as the materials become available.
 - A list of key topics for the course is available on the [site home page](index.html)
-
-## Readings
-
-The two books we're reading this term are:
-
-- Jeff Leek **How to be a modern scientist**, available as an ebook [on Leanpub](https://leanpub.com/modernscientist) for a suggested $10, and abbreviated as **Leek** below. The book is short, and I encourage you to just read it as soon as possible (it won't take more than a couple of hours), then refer to it later in the term as specific issues arise.
-- Nate Silver **The Signal and the Noise**, available [on Amazon](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087) for about $20, and abbreviated as **Silver** below. Some chapters will seem more relevant to you than others, and feel free to skim those in an initial reading. The most useful chapters are the Introduction, Chapters 1-3, 6-8 and 12, according to past students in the course.
-
-The calendar specifies reading dates on Fridays. We expect you to read the material specified over that weekend (before the next class.) We encourage you to read the books in advance of the specified dates. In some cases, you have a choice between chapters of Silver to read at a particular time. We encourage you to return to chapters you didn't choose later in the semester so that by the end of April you've read the entire book.
-
-## Before Class Starts
-
-Once you have registered for the course, please visit our [Welcome to 432 survey](http://bit.ly/432-2021-welcome-survey). You'll need to log into Google via CWRU to take the survey, which should take about 15 minutes to complete. If possible, please complete the survey before our first class on 2021-02-02.
 
 ## February 2021
 
@@ -127,3 +113,16 @@ TA office hours begin on Thursday 2021-02-04 and continue through Monday 2021-05
 - Mondays from 3:00 to 4:30 PM ET and from 6:30 to 8:00 PM ET
 
 Remember that [Piazza](https://piazza.com/case/spring2021/pqhs432) is available 24 hours a day, 7 days a week for your questions and answers.
+
+## Readings
+
+The two books we're reading this term are:
+
+- Jeff Leek **How to be a modern scientist**, available as an ebook [on Leanpub](https://leanpub.com/modernscientist) for a suggested $10, and abbreviated as **Leek** below. The book is short, and I encourage you to just read it as soon as possible (it won't take more than a couple of hours), then refer to it later in the term as specific issues arise.
+- Nate Silver **The Signal and the Noise**, available [on Amazon](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087) for about $20, and abbreviated as **Silver** below. Some chapters will seem more relevant to you than others, and feel free to skim those in an initial reading. The most useful chapters are the Introduction, Chapters 1-3, 6-8 and 12, according to past students in the course.
+
+The calendar specifies reading dates on Fridays. We expect you to read the material specified over that weekend (before the next class.) We encourage you to read the books in advance of the specified dates. In some cases, you have a choice between chapters of Silver to read at a particular time. We encourage you to return to chapters you didn't choose later in the semester so that by the end of April you've read the entire book.
+
+## Before Class Starts
+
+Once you have registered for the course, please visit our [Welcome to 432 survey](http://bit.ly/432-2021-welcome-survey). You'll need to log into Google via CWRU to take the survey, which should take about 15 minutes to complete. If possible, please complete the survey before our first class on 2021-02-02.

@@ -2,22 +2,13 @@
 title: "Minute Papers"
 ---
 
-There are four types of course assignments in 432. In order of time requirements (from most to least), they are:
-
-1. Two Projects (Project 1 is due in late March, Project 2 at the end of the term)
-2. Two Quizzes (Quiz A is in mid-March, Quiz B is at the end of the term)
-3. Six Labs (the first five labs are mandatory, the final one is optional and can be done at any time during the semester)
-4. Nine Minute Papers, due on Wednesdays during the semester.
-
-All information on deadlines for these assignments is found at the [Course Calendar](calendar.html).
-
-### Where can I find the links to the Minute Papers?
+## Where can I find the links to the Minute Papers?
 
 All minute papers are linked through the [Course Calendar](calendar.html). You will need to be logged into Google via your CWRU account in order to complete the minute papers, or review the feedback Dr. Love builds.
 
 The [direct link on Github for 432 Minute Papers is available now](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers).
 
-### What is a minute paper?
+## What is a minute paper?
 
 "Minute Papers" are short forms (administered using Google Forms) that allow you to tell us about your experience, summarize some of the things you've learned recently, and (most importantly) ask questions of Dr. Love. 
 
@@ -25,7 +16,7 @@ The [direct link on Github for 432 Minute Papers is available now](https://githu
 - The Minute Papers form a major part of your class participation grade, and we expect you to complete as many as possible on time. 
 - The Minute Papers will be made available on Mondays before their deadline (which is always noon on Wednesday) and Dr. Love will provide extensive feedback on Thursdays in class in response to the Minute Papers which were submitted by the deadline.
 
-### What questions can we expect in a minute paper?
+## What questions can we expect in a minute paper?
 
 Virtually every minute paper includes the following items:
 
