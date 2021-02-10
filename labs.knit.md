@@ -1,0 +1,27 @@
+---
+title: "Labs"
+---
+
+There are six labs this semester. The first five are required and linked to specific parts of the course, while the sixth is optional and can be done at any time during the semester. All information on deadlines for Labs will be found at the [Course Calendar](calendar.html).
+
+## Instructions
+
+The [Labs page on Github](https://github.com/THOMASELOVE/432-2021/tree/master/labs) provides links to instructions and all other materials for each Lab.
+
+More information on Labs, and how they're evaluated, is available in the relevant section of the [Course Syllabus](https://thomaselove.github.io/432-2021-syllabus/assignments-and-grading.html#labs)
+
+## A Note on Lab 06
+
+Lab 06 is optional and can be done at any time through the semester. Your task there is to build a Web presence for yourself on the internet using R Markdown, and specifically a tool called blogdown. This is something you can probably do in an afternoon, and we encourage you not to wait until the end of the semester if you're interested.
+
+The [Lab 06 instructions page](https://github.com/THOMASELOVE/432-2021/blob/master/labs/lab06/lab06_instructions.md) provides more details, and links to lots of references.
+
+## Appeal Policy - Requesting a Regrade
+
+Clarification of concerns related to potential typographical or other errors in our Lab answer sketches is welcome at any time, but haggling over points on assignments can be a real time sink in a large class.
+
+To that end, students are requested **not to dispute any grading on Labs** during the semester.
+
+Instead, should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can simply submit a request for a regrade by Professor Love through [this Google Form](http://bit.ly/432-2021-lab-regrade-requests). You must log into Google via CWRU to see the form.
+
+See [this section of the Course Syllabus](https://thomaselove.github.io/432-2021-syllabus/assignments-and-grading.html#appeal-policy-and-regrades) for more details on this policy.

@@ -1,0 +1,51 @@
+---
+title: "432 Main Page for Spring 2021"
+---
+
+Welcome! PQHS/CRSP/MPHP 432 is the second half (431 is the first half) of a two-semester course taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Everything that Professor Love will provide to help you with the course will appear on this website.
+
+The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM virtually, using the Zoom platform, starting on 2021-02-02. Information on the Zoom meetings will be found on [Canvas](https://canvas.case.edu).
+
+## Take our "Welcome to 432" Survey!
+
+Once you have registered for the course, please visit our [Welcome to 432 survey](http://bit.ly/432-2021-welcome-survey). You'll need to log into Google via CWRU to take the survey, which should take about 15 minutes to complete. If possible, please complete the survey before our first class on 2021-02-02.
+
+## Everything You Need Will Appear Here
+
+The menu bar includes links to everything you'll need this semester, which will go live as they become available, including
+
+- the [course syllabus](https://thomaselove.github.io/432-2021-syllabus/), including information on what to do before the first class
+- the [course calendar](calendar.html), which provides the final word on all deadlines, and also provides links to all materials used in each class session
+- the [course notes](https://thomaselove.github.io/432-notes/), written by Dr. Love, which will be updated through the semester
+- the [course assignments](minutes.html), including [projects](projects.html), [quizzes](quizzes.html), [labs](labs.html) and [minute papers](minutes.html).
+    - All assignment deadlines appear in the [calendar](calendar.html).
+- information on [installing R and RStudio](software_install.html), [installing key R packages](r_packages.html), and [downloading data](data_index.html) (and code) you'll need for the class
+- additional [sources](https://github.com/THOMASELOVE/432-2021/tree/master/references) and references, including things to read or watch to supplement our main work
+- a link to the [Canvas](https://canvas.case.edu/) system (log-in required) we use to communicate information about Zoom sessions, and for turning in assignments
+- places where you can [get help and contact us](contact.html).
+
+## What Must I Purchase for this Course?
+
+1. Nate Silver's **The Signal and the Noise**, available [on Amazon](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087) for about $20. 
+    - The 2013 or 2015 edition is sufficient for 432, and either an electronic or paper version is fine. In 2020, Nate added a new preface, which is interesting, but not critical.
+2. Jeff Leek's **How to be a Modern Scientist** available as an ebook [on Leanpub](https://leanpub.com/modernscientist) for a suggested $10.
+    - This was written in 2016, and is thus a little out of date, but still very helpful. You can read the entire book in a couple of hours.
+3. You will need easy access to a computer where you can download R, R Studio, the data we'll use and where you can regularly install and update R Packages. [Details on software are here](software_install.html).
+
+## Key Topics for 432 in Spring 2021
+
+For some sense of how the course will flow, visit the [calendar](calendar.html)
+
+1. Dealing with interaction and other forms of non-linearity in regression models by spending degrees of freedom on non-linear terms, particularly through the [Harrell "verse"](https://www.nicholas-ollberding.com/post/an-introduction-to-the-harrell-verse-predictive-modeling-using-the-hmisc-and-rms-packages/).
+2. Using regression methods for different purposes (exploring associations, making predictions, assessing cause and effect).
+3. Logistic regression and generalized linear models for binary, count and multi-categorical outcomes.
+4. Using [tidymodels](https://www.tidymodels.org/) approaches to build models in a more automated, tidier way, and to use more modern (robust and/or Bayesian) regression fitting strategies.
+5. Variable selection and its woeful performance in real situations.
+6. The statistical crisis in science, and how though statistical significance and p values are especially problematic, [science isn't broken](https://fivethirtyeight.com/features/science-isnt-broken/).
+7. Retrospective assessments and issues related to sample size, especially post hoc power estimates.
+8. Dealing with time-to-event (survival) data, with an introduction to censoring, Kaplan-Meier curves and Cox models.
+9. Using sampling weights to mirror populations in modeling results (NHANES being a prime example).
+10. An introduction to dealing with hierarchical data, especially when confronted with repeated measures.
+11. Doing replicable research, and how to be a modern scientist with a web presence.
+
+#### This site last updated 2021-02-10 08:48:20
