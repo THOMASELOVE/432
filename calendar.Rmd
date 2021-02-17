@@ -26,7 +26,7 @@ LINK | Date | Description
 **due** | 02-10 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 03 due at noon.
 [Class 04](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class04) | 02-11 | Interactions, Splines and Imputation in Linear Models
 *Reading* | 02-12 | **Silver** Chapter 2. **Leek** Paper writing, Scientific code
-[Class 05](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class05) | 02-16 | Using `ols`: An introduction, then Binary Regression Models
+[Class 05](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class05) | 02-16 | Binary Regression Models
 **due** | 02-17 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 05 due at noon.
 [Class 06](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class06) | 02-18 | Building Models for Binary Outcomes
 *Reading* | 02-19 | **Silver** Chapter 3, 4, or 5 (your choice). **Leek** Internal scientific communication, Your online identity
