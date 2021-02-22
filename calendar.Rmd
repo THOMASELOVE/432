@@ -31,9 +31,9 @@ LINK | Date | Description
 [Class 06](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class06) | 02-18 | Building Models for Binary Outcomes
 *Reading* | 02-19 | **Silver** Chapter 3, 4, or 5 (your choice). **Leek** Internal scientific communication, Your online identity
 **due** | 02-22 | [Lab 02](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
-[Class 07](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class07) | 02-23 | Fitting and assessing linear and logistic regressions, 1
+[Class 07](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class07) | 02-23 | Linear Regression with `ols`
 **due** | 02-24 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 07 due at noon.
-[Class 08](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class08) | 02-25 | Fitting and assessing linear and logistic regressions, 2
+[Class 08](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class08) | 02-25 | Linear Regression and Multiple Imputation with `ols`
 *Reading* | 02-26 | Complete **Leek**
 
 ## March 2021
@@ -42,12 +42,12 @@ LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
 **due** | 03-01 | [Project 1 Proposal](https://github.com/THOMASELOVE/432-2021/tree/master/project1) is due at 9 PM.
 No class | 03-02 | Dr. Love at AHRQ HCRT.
-Class 09 | 03-04 | Fitting and assessing linear and logistic regressions, 3.
+[Class 09](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class09) | 03-04 | Logistic Regression with `lrm`
 *Reading* | 03-05 | **Silver** Chapter 6.
 **due** | 03-08 | [Lab 03](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
-Class 10 | 03-09 | Fitting and assessing linear and logistic regressions, 4.
+[Class 10](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class10) | 03-09 | More on linear and logistic regressions
 **due** | 03-10 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 10 due at noon.
-Class 11 | 03-11 | Fitting and assessing linear and logistic regressions, 5.
+[Class 11](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class11) | 03-11 | More on linear and logistic regressions
 *Reading* | 03-12 | **Silver** Chapter 7.
 No class | 03-16 | University Break.
 Class 12 | 03-18 | (Some of) The problems with p values.
