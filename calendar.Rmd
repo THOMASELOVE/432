@@ -44,11 +44,11 @@ LINK | Date | Description
 No class | 03-02 | Dr. Love at AHRQ HCRT.
 [Class 09](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class09) | 03-04 | Logistic Regression with `lrm`
 *Reading* | 03-05 | **Silver** Chapter 6.
-**due** | 03-08 | [Lab 03](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
 [Class 10](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class10) | 03-09 | More on linear and logistic regressions
 **due** | 03-10 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 10 due at noon.
 [Class 11](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class11) | 03-11 | More on linear and logistic regressions
 *Reading* | 03-12 | **Silver** Chapter 7.
+**due** | 03-15 | [Lab 03](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
 No class | 03-16 | University Break.
 Class 12 | 03-18 | (Some of) The problems with p values.
 *Reading* | 03-19 | **Silver** Chapter 8.
