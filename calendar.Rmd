@@ -30,7 +30,7 @@ No class | 03-02 | Dr. Love at AHRQ HCRT.
 No class | 03-16 | University Break.
 Class 12 | 03-18 | (Some of) The problems with p values.
 *Reading* | 03-19 | **Silver** Chapter 8.
-**due** | 03-22 | Quiz A will be available 03-12 and is due 03-22 at 9 PM.
+**due** | 03-22 | [Quiz A](https://github.com/THOMASELOVE/432-2021/tree/master/quizzes/quizA) will be available 03-12 and is due 03-22 at 9 PM.
 Class 13 | 03-23 | Retrospective Design / Thinking about Power After the Fact
 **due** | 03-24 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 13 due at noon.
 Class 14 | 03-25 | Regression on Counts
