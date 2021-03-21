@@ -48,7 +48,6 @@ Class 17 | 04-06 | Regression on multi-categorical outcomes.
 **due** | 04-07 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 17 due at noon.
 Class 18 | 04-08 | Using weights in regression models
 *Reading* | 04-09 | **Silver** Chapter 13.
-**due** | 04-12 | [Lab 04](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
 Class 19 | 04-13 |  Dealing with Time-to-event data, Kaplan-Meier curves.
 **due** | 04-14 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 19 due at noon.
 Class 20 | 04-15 | Fitting Cox models for time-to-event data, 1.
@@ -57,7 +56,6 @@ Class 20 | 04-15 | Fitting Cox models for time-to-event data, 1.
 Class 21 | 04-20 | Fitting Cox models for time-to-event data, 2.
 **due** | 04-21 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 21 due at noon.
 Class 22 | 04-22 | To Be Announced.
-**due** | 04-26 | [Lab 05](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
 Class 23 | 04-27 | Retrospective Design / Thinking about Power After the Fact
 Class 24 | 04-29 | Designing Studies Well
 *Reading* | 04-30 | **Silver** complete the book if you haven't already.
@@ -66,6 +64,7 @@ Class 24 | 04-29 | Designing Studies Well
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
+**due** | 05-03 | [Lab 04](https://github.com/THOMASELOVE/432-2021/tree/master/labs) and [Lab 05](https://github.com/THOMASELOVE/432-2021/tree/master/labs) each due at 9 PM.
 Class 25 | 05-04 | To Be Announced.
 **due** | 05-05 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 25 due at noon.
 Class 26 | 05-06 | To Be Announced.
@@ -76,7 +75,7 @@ Class 26 | 05-06 | To Be Announced.
 
 ## End of Semester
 
-All students will present Project 2 materials on a date to be determined from 2021-05-10 through 2021-05-14. Details and a schedule for these presentations will be available in early April.
+All students will present Project 2 materials in May before 2021-05-15 on a date to be determined. Details and a schedule for these presentations will be available in early April.
 
 ## TA Office Hours
 
