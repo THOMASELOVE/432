@@ -36,28 +36,28 @@ No class | 03-16 | University Break.
 [Class 14](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class14) | 03-25 | Regression on Counts
 *Reading* | 03-26 | **Silver** Chapter 9 or 10 (your choice).
 **due** | 03-29 | [Project 1 Portfolio and Presentation](https://github.com/THOMASELOVE/432-2021/tree/master/project1) are due at 9 PM.
-[Class 15](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class15) | 03-30 | Regression on Counts and Ordinal multi-categorical outcomes.
+[Class 15](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class15) | 03-30 | Regression on Ordinal multi-categorical outcomes.
 
 ## April 2021
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
-[Class 16](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class16) | 04-01 | Regression on Ordinal and Nominal multi-categorical outcomes.
+[Class 16](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class16) | 04-01 | Regression on Nominal multi-categorical outcomes.
 *Reading* | 04-02 | **Silver** Chapter 12.
-Class 17 | 04-06 | Regression on multi-categorical outcomes.
+[Class 17](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class17) | 04-06 | More on ordinal regression models
 **due** | 04-07 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 17 due at noon.
-Class 18 | 04-08 | Using weights in regression models
+[Class 18](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class18) | 04-08 | Dealing with Time-to-event data, Kaplan-Meier curves.
 *Reading* | 04-09 | **Silver** Chapter 13.
-Class 19 | 04-13 |  Dealing with Time-to-event data, Kaplan-Meier curves.
+[Class 19](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class19) | 04-13 |  Fitting Cox regression models for censored time-to-event data
 **due** | 04-14 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 19 due at noon.
-Class 20 | 04-15 | Fitting Cox models for time-to-event data, 1.
+**Focus 1** | 04-15 | Project 2 **Focus Day 1**
 *Reading* | 04-16 | **Silver** Chapter 11.
-**due** | 04-19 | Project 2 Proposal will be due at 9 PM. Details to come.
-Class 21 | 04-20 | Fitting Cox models for time-to-event data, 2.
-**due** | 04-21 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 21 due at noon.
-Class 22 | 04-22 | To Be Announced.
-Class 23 | 04-27 | Retrospective Design / Thinking about Power After the Fact
-Class 24 | 04-29 | Designing Studies Well
+**due** | 04-19 | Project 2 Outline and Scheduling Form submitted by NOON.
+[Class 20](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class20) | 04-20 | Using Weights in Regression Models
+**due** | 04-21 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 20 due at noon.
+[Class 21](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class21) | 04-22 | A Brief Introduction to Hierarchical Data
+**Focus 2** | 04-27 | Project 2 **Focus Day 2**
+[Class 22](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class22) | 04-29 | Retrospective Design / Thinking about Power After the Fact
 *Reading* | 04-30 | **Silver** complete the book if you haven't already.
 
 ## May 2021
@@ -65,17 +65,23 @@ Class 24 | 04-29 | Designing Studies Well
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
 **due** | 05-03 | [Lab 04](https://github.com/THOMASELOVE/432-2021/tree/master/labs) and [Lab 05](https://github.com/THOMASELOVE/432-2021/tree/master/labs) each due at 9 PM.
-Class 25 | 05-04 | To Be Announced.
-**due** | 05-05 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 25 due at noon.
-Class 26 | 05-06 | To Be Announced.
-**due** | 05-10 | Project 2 submissions. Details to come by April 1.
-**due** | 05-14 | (Optional) [Lab Regrade Request Form](http://bit.ly/432-2021-lab-regrade-requests) due 05-14 at Noon.
-**due** | 05-14 | (Optional) [Lab 06](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due 05-14 at 9 PM.
-**due** | 05-17 | Quiz B will be available 05-07 and is due 05-17 at 9 PM.
+**Focus 3** | 05-04 | Project 2 **Focus Day 3**
+**due** | 05-05 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) before Class 23 due at noon.
+[Class 23](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class23) | 05-06 | Designing Studies and Visualizations Well: A Look Forward
+Quiz B  | 05-07 | Quiz B will be available 05-07 and is due 05-17 at NOON.
+**due** | 05-14 | (Optional) [Lab Regrade Request Form](http://bit.ly/432-2021-lab-regrade-requests) due 05-14 at NOON.
+**due** | 05-14 | (Optional) [Lab 06](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due 05-14 at NOON.
+**due** | 05-17 | Quiz B will be available 05-07 and is due 05-17 at NOON.
 
-## End of Semester
+## Project 2 Deadlines
 
-All students will present Project 2 materials in May before 2021-05-15 on a date to be determined. Details and a schedule for these presentations will be available in early April.
+Date | Description
+---- | -----------------------------------------------------
+**04-19** | Project 2 Outline and Scheduling Form submitted by NOON.
+**04-20** | Dr. Love will announce the schedule for Project 2 Presentations.
+TBD | Project 2 Live Presentation via Zoom on Apr 29, May 7, 10 or 11.
+TBD | Draft of Project 2 Portfolio due 3 hours before your presentation.
+**05-13** | Project 2 Written Portfolio (final version) due at NOON.
 
 ## TA Office Hours
 
