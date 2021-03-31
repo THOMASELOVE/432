@@ -14,29 +14,6 @@ output:
 - The Zoom link for each class is [available on Canvas](https://canvas.case.edu) in the Announcements section. Zoom recordings are also posted to [Canvas](https://canvas.case.edu).
 - A list of key topics for the course is available on the [site home page](index.html)
 
-## March 2021
-
-LINK | Date | Description
---------: | -------: | :-------------------------------------------------------
-**due** | 03-01 | [Project 1 Proposal](https://github.com/THOMASELOVE/432-2021/tree/master/project1) is due at 9 PM.
-No class | 03-02 | Dr. Love at AHRQ HCRT.
-[Class 09](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class09) | 03-04 | Logistic Regression with `lrm`
-*Reading* | 03-05 | **Silver** Chapter 6.
-[Class 10](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class10) | 03-09 | More on linear and logistic regressions
-**due** | 03-10 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 10 due at noon.
-[Class 11](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class11) | 03-11 | More on linear and logistic regressions
-*Reading* | 03-12 | **Silver** Chapter 7.
-**due** | 03-15 | [Lab 03](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
-No class | 03-16 | University Break.
-[Class 12](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class12) | 03-18 | Multiple Imputation and the `mice` package for `lm` and `glm` fits.
-*Reading* | 03-19 | **Silver** Chapter 8.
-**due** | 03-22 | [Quiz A](https://github.com/THOMASELOVE/432-2021/tree/master/quizzes/quizA) will be available 03-12 and is due 03-22 at 9 PM.
-[Class 13](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class13) | 03-23 | P values and Replicable Research
-**due** | 03-24 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 13 due at noon.
-[Class 14](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class14) | 03-25 | Regression on Counts
-*Reading* | 03-26 | **Silver** Chapter 9 or 10 (your choice).
-**due** | 03-29 | [Project 1 Portfolio and Presentation](https://github.com/THOMASELOVE/432-2021/tree/master/project1) are due at 9 PM.
-[Class 15](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class15) | 03-30 | Regression on Ordinal multi-categorical outcomes.
 
 ## April 2021
 
@@ -132,3 +109,27 @@ LINK | Date | Description
 **due** | 02-24 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 07 due at noon.
 [Class 08](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class08) | 02-25 | Linear Regression and Multiple Imputation with `ols`
 *Reading* | 02-26 | Complete **Leek**
+
+## March 2021
+
+LINK | Date | Description
+--------: | -------: | :-------------------------------------------------------
+**due** | 03-01 | [Project 1 Proposal](https://github.com/THOMASELOVE/432-2021/tree/master/project1) is due at 9 PM.
+No class | 03-02 | Dr. Love at AHRQ HCRT.
+[Class 09](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class09) | 03-04 | Logistic Regression with `lrm`
+*Reading* | 03-05 | **Silver** Chapter 6.
+[Class 10](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class10) | 03-09 | More on linear and logistic regressions
+**due** | 03-10 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 10 due at noon.
+[Class 11](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class11) | 03-11 | More on linear and logistic regressions
+*Reading* | 03-12 | **Silver** Chapter 7.
+**due** | 03-15 | [Lab 03](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due at 9 PM.
+No class | 03-16 | University Break.
+[Class 12](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class12) | 03-18 | Multiple Imputation and the `mice` package for `lm` and `glm` fits.
+*Reading* | 03-19 | **Silver** Chapter 8.
+**due** | 03-22 | [Quiz A](https://github.com/THOMASELOVE/432-2021/tree/master/quizzes/quizA) will be available 03-12 and is due 03-22 at 9 PM.
+[Class 13](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class13) | 03-23 | P values and Replicable Research
+**due** | 03-24 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 13 due at noon.
+[Class 14](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class14) | 03-25 | Regression on Counts
+*Reading* | 03-26 | **Silver** Chapter 9 or 10 (your choice).
+**due** | 03-29 | [Project 1 Portfolio and Presentation](https://github.com/THOMASELOVE/432-2021/tree/master/project1) are due at 9 PM.
+[Class 15](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class15) | 03-30 | Regression on Ordinal multi-categorical outcomes.
