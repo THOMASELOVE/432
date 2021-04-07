@@ -21,18 +21,18 @@ LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
 [Class 16](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class16) | 04-01 | Regression on Nominal multi-categorical outcomes.
 *Reading* | 04-02 | **Silver** Chapter 12.
-[Class 17](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class17) | 04-06 | More on ordinal regression models
+[Class 17](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class17) | 04-06 | More on ordinal regression models, Time-to-event data, Kaplan-Meier curves
 **due** | 04-07 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 17 due at noon.
-[Class 18](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class18) | 04-08 | Dealing with Time-to-event data, Kaplan-Meier curves.
+[Class 18](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class18) | 04-08 | Comparing Survival curves, Fitting Cox proportional hazards models.
 *Reading* | 04-09 | **Silver** Chapter 13.
-[Class 19](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class19) | 04-13 |  Fitting Cox regression models for censored time-to-event data
+[Class 19](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class19) | 04-13 | Cox models with `cph`, Fitting Robust Linear Models.
 **due** | 04-14 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 19 due at noon.
 **Focus 1** | 04-15 | [Project 2](https://github.com/THOMASELOVE/432-2021/tree/master/project2) **Focus Day 1**
 *Reading* | 04-16 | **Silver** Chapter 11.
 **due** | 04-19 | [Project 2 Outline and Scheduling Form](http://bit.ly/432-2021-project2-register) submitted by NOON.
-[Class 20](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class20) | 04-20 | Using Weights in Regression Models
+[Class 20](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class20) | 04-20 | Survey Weights in Regression Models, Feature Selection and the Lasso.
 **due** | 04-21 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 20 due at noon.
-[Class 21](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class21) | 04-22 | A Brief Introduction to Hierarchical Data
+[Class 21](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class21) | 04-22 | An Overly Brief Introduction to Hierarchical Data
 **Focus 2** | 04-27 | [Project 2](https://github.com/THOMASELOVE/432-2021/tree/master/project2) **Focus Day 2**
 [Class 22](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class22) | 04-29 | Retrospective Design / Thinking about Power After the Fact
 *Reading* | 04-30 | **Silver** complete the book if you haven't already.
