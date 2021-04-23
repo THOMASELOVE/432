@@ -30,10 +30,10 @@ LINK | Date | Description
 **Focus 1** | 04-15 | [Project 2](https://github.com/THOMASELOVE/432-2021/tree/master/project2) **Focus Day 1**
 *Reading* | 04-16 | **Silver** Chapter 11.
 **due** | 04-19 | [Project 2 Outline and Scheduling Form](http://bit.ly/432-2021-project2-register) submitted by NOON.
-[Class 20](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class20) | 04-20 | Survey Weights in Regression Models, Feature Selection and the Lasso.
+[Class 20](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class20) | 04-20 | Survey Weights in Regression Models, Feature Selection
 **due** | 04-21 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) after Class 20 due at noon.
-[Class 21](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class21) | 04-22 |  Retrospective Design / Thinking about Power After the Fact 
-[Class 22](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class22) | 04-27 | An Overly Brief Introduction to Hierarchical Data
+[Class 21](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class21) | 04-22 | Retrospective Design / Thinking about Power After the Fact 
+[Class 22](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class22) | 04-27 | Using design analysis, Ridge Regression and the Lasso
 **Focus 2** | 04-29 | [Project 2](https://github.com/THOMASELOVE/432-2021/tree/master/project2) **Focus Day 2**
 *Reading* | 04-30 | **Silver** complete the book if you haven't already.
 
@@ -44,7 +44,7 @@ LINK | Date | Description
 **due** | 05-03 | [Lab 04](https://github.com/THOMASELOVE/432-2021/tree/master/labs) and [Lab 05](https://github.com/THOMASELOVE/432-2021/tree/master/labs) each due at 9 PM.
 **Focus 3** | 05-04 | [Project 2](https://github.com/THOMASELOVE/432-2021/tree/master/project2) **Focus Day 3**
 **due** | 05-05 | [Minute Paper](https://github.com/THOMASELOVE/432-2021/tree/master/minutepapers) before Class 23 due at noon.
-[Class 23](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class23) | 05-06 | Designing Studies and Visualizations Well: A Look Forward
+[Class 23](https://github.com/THOMASELOVE/432-2021/tree/master/classes/class23) | 05-06 | An Overly Brief Introduction to Hierarchical Data: A Look Forward
 Quiz B  | 05-07 | [Quiz B](https://github.com/THOMASELOVE/432-2021/tree/master/quizzes/quizB) will be available 05-07 and is due 05-17 at NOON.
 **due** | 05-14 | (Optional) [Lab Regrade Request Form](http://bit.ly/432-2021-lab-regrade-requests) due 05-14 at NOON.
 **due** | 05-14 | (Optional) [Lab 06](https://github.com/THOMASELOVE/432-2021/tree/master/labs) due 05-14 at NOON.
